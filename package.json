@@ -8,7 +8,7 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "deploy": "gh-pages -d dist",
+    "deploy": "push-dir --dir=dist --branch=master --cleanup",
     "generate": "nuxt generate"
   },
   "dependencies": {
