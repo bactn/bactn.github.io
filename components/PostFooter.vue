@@ -1,6 +1,6 @@
 <template>
-  <footer class="card-footer">
-    <div class="card-footer-item">
+  <footer class="post-footer">
+    <div class="post-footer-item">
       <button class="button">
         <b-icon icon="hand-right" size="is-small"> </b-icon>
       </button>

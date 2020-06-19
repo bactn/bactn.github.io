@@ -1,7 +1,7 @@
 {
   "name": "spa",
   "version": "1.0.0",
-  "description": "testing spa",
+  "description": "Sharing what you learned",
   "author": "bac.tran",
   "private": true,
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "http-server": "^0.12.3",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.13.0",
     "nuxt-buefy": "^0.3.2"
   },
   "devDependencies": {
